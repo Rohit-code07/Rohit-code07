@@ -97,14 +97,6 @@ Personal portfolio website showcasing projects and skills.
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Rohit-code07&theme=tokyonight&row=1&column=6"/>
-</p>
-
----
-
 ## 📈 Contribution Graph
 
 <p align="center">
