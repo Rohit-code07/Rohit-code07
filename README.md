@@ -1,127 +1,123 @@
-<h1 align="center">Hi 👋, I'm Rohit Verma</h1>
-<h3 align="center">Aspiring Full Stack Developer | Java & React Enthusiast 🚀</h3>
+# 👋 Hi, I'm Rohit Verma
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Java+%26+Spring+Boot+Learner;React+Developer;DSA+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+### Java Backend Developer • Full-Stack Developer • GenAI & RAG Developer
+
+<p align="left">
+  <a href="https://github.com/Rohit-code07">
+    <img src="https://img.shields.io/badge/GitHub-Rohit--code07-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
 </p>
 
 ---
-
-<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ## 🚀 About Me
 
-- 🎓 BTech Student passionate about software development
-- 🌱 Currently learning **React.js, Spring Boot & DSA**
-- 💻 Building modern and scalable web applications
-- 🚀 Interested in **Backend Development & Open Source**
-- ⚡ Love creating responsive UIs and solving problems
-- 🎯 Goal: Become a skilled Full Stack Developer
+I'm a **B.Tech Computer Science student** focused on building practical applications with **Java, Spring Boot, React, and Generative AI**.
+
+My primary interest is **backend development**, where I work with REST APIs, authentication, databases, application architecture, and AI-powered services.
+
+I also enjoy building **full-stack applications and RAG-based GenAI systems** that solve real-world problems rather than simple demonstration projects.
+
+```text
+💻 Backend        → Java | Spring Boot | REST APIs | Spring Security
+🎨 Frontend       → React | JavaScript | Tailwind CSS
+🤖 GenAI          → RAG | LangChain | LangGraph | AI Agents
+🧠 AI Services    → Python | FastAPI | LLM APIs | Embeddings
+🗄️ Databases      → MySQL | Firebase | ChromaDB
+⚙️ Tools          → Git | Docker | GitHub Actions | Maven | Postman
+```
 
 ---
 
-## 🌐 Connect With Me
+# 🛠️ Tech Stack
 
-<p align="left">
-<a href="https://github.com/Rohit-code07" target="blank">
-<img src="https://skillicons.dev/icons?i=github" height="40" />
-</a>
+### Languages
 
-<a href="https://www.linkedin.com/in/rohit-verma-15b975304/" target="blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="40" />
-</a>
-
-<a href="rohitihit2466@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="40" />
-</a>
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,c,js" />
 </p>
 
----
+### Backend
 
-## 🛠 Tech Stack
-
-### 👨‍💻 Languages
 <p>
-<img src="https://skillicons.dev/icons?i=java,js,html,css,c,c++" />
+  <img src="https://skillicons.dev/icons?i=spring,fastapi" />
 </p>
 
-### ⚛️ Frontend
+`Spring Boot` `Spring MVC` `Spring Security` `REST APIs` `FastAPI`
+
+### Frontend
+
 <p>
-<img src="https://skillicons.dev/icons?i=react,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,js" />
 </p>
 
-### ⚙️ Backend
-<p>
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
-</p>
+### AI / GenAI
 
-### 🗄 Database
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
+`RAG` `LangChain` `LangGraph` `AI Agents` `Prompt Engineering`
 
-### 🧰 Tools
+`Embeddings` `Vector Search` `LLM APIs` `Document Intelligence`
+
+### Databases & Tools
+
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=mysql,firebase,docker,git,github,githubactions,maven,postman" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔹 MedoraX
-Modern full-stack web application with responsive UI and scalable backend.
-
-### 🔹 API Rate Limiter
-A backend-focused project built using Java & Spring Boot for controlling API traffic.
-
-### 🔹 TaskMate
-A modern React-based task management app with clean UI and local storage support.
-
-### 🔹 Portfolio
-Personal portfolio website showcasing projects and skills.
-
----
-
-## 📊 GitHub Stats
+# 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rohit-code07&show_icons=true&theme=tokyonight" height="170"/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohit-code07&theme=tokyonight" height="170"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit-code07&layout=compact&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=Rohit-code07&hide_border=true" />
 </p>
 
 ---
 
-## 📈 Contribution Graph
+# 🧠 Currently Working On
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rohit-code07&theme=tokyo-night"/>
+```text
+☕ Advanced Java & Spring Boot
+🧩 Backend Architecture & REST API Design
+🧠 Data Structures & Algorithms
+🤖 Retrieval-Augmented Generation
+🔗 AI Agents & Tool Calling
+🐳 Docker & CI/CD
+🏗️ Production-oriented Full-Stack Applications
+```
+
+---
+
+# 📊 Coding Profiles
+
+<p>
+  <a href="https://github.com/Rohit-code07">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://leetcode.com/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
 </p>
 
 ---
 
-## 🎯 Current Focus
+# 📫 Let's Connect
 
-- 📚 Mastering Data Structures & Algorithms
-- ⚛️ Building Full Stack Projects
-- ☁️ Learning Advanced Spring Boot
-- 🌍 Contributing to Open Source
+I'm interested in **software development internships, backend engineering, full-stack development, and GenAI opportunities**.
 
----
-
-## ✨ Quote I Follow
-
-> "Consistency beats motivation." 🚀
+<p>
+  <a href="https://github.com/Rohit-code07">
+    <img src="https://img.shields.io/badge/GitHub-Rohit--code07-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-Rohit%20Verma-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
 
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Rohit-code07&label=Profile+Views&color=0e75b6&style=flat" alt="profile views"/>
+  <i>Build → Break → Learn → Improve → Repeat.</i>
 </p>
-
-<h3 align="center">⭐ Thanks for visiting my profile ⭐</h3>
